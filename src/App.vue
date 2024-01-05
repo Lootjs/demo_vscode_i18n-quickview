@@ -4,3 +4,6 @@
 		{{ $t('car_show_all') }}
 	</div>
 </template>
+
+<script>
+</script>
